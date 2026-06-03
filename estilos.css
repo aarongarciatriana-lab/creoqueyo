@@ -1,6 +1,11 @@
 @font-face {
-    font-family: 'GODOFWAR';
+    font-family: 'GodOfWar';
     src: url('fuentes/GODOFWAR.TTF') format('truetype');
+}    
+       
+@font-face {
+    font-family: 'OldeEnglish.ttf';
+    src: url('fuentes/OldeEnglish.ttf') format('truetype');
 }
 
 body{
