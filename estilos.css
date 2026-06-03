@@ -23,3 +23,18 @@ tolo{
 titulo-tolo{
     font-family: 'GODOFWAR', sans-serif;
 }
+.grid-fotos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.foto-card {
+    width: 200px;
+}
+
+.foto-card img {
+    width: 100%;
+    border-radius: 12px;
+}
